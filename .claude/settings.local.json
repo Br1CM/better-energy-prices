@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(python -m venv:*)",
+      "Bash(\"C:\\\\Users\\\\Bruno\\\\prueba\\\\.venv\\\\Scripts\\\\pip.exe\" install:*)",
+      "Bash(copy:*)",
+      "Bash(dir:*)"
+    ]
+  }
+}
