@@ -1,6 +1,6 @@
 # Electric Invoice Analyzer
 
-A Streamlit web app that reads a Spanish electricity bill (PDF or image), extracts data using OpenAI's vision model, simulates costs across multiple tariffs, and generates a savings proposal — capped at 30%.
+A Streamlit web app that reads a Spanish electricity bill (PDF or image), extracts data using OpenAI's vision model, simulates costs across multiple tariffs, and generates a savings proposal — capped at 30% (Decided to meet business needs).
 
 ## Features
 
@@ -90,6 +90,3 @@ Five simulated tariffs are included, covering common consumer profiles:
 
 See `requirements.txt` for the full dependency list.
 
-## License
-
-MIT
