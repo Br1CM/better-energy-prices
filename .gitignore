@@ -8,3 +8,5 @@ venv/
 dist/
 build/
 .streamlit/secrets.toml
+.claude/
+plan.md

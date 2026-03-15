@@ -5,7 +5,8 @@
       "Bash(python -m venv:*)",
       "Bash(\"C:\\\\Users\\\\Bruno\\\\prueba\\\\.venv\\\\Scripts\\\\pip.exe\" install:*)",
       "Bash(copy:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(cd \"C:/Users/Bruno/prueba\" && .venv/Scripts/python.exe -c \"import streamlit; import openai; import fitz; import pandas; import pydantic; import dotenv; print\\('All dependencies OK'\\)\")"
     ]
   }
 }
